@@ -1,0 +1,20 @@
+---
+name: "TUJ EN News (US, 3g)"
+default: false
+interval: 12
+parameters:
+  connectivity: "3g"
+  location: "Dulles:Chrome"
+  runs: 3
+  url: "https://www.tuj.ac.jp/news/"
+#wptUrl: https://www.webpagetest.org
+#budgets:
+#  -
+#    metric: TTFB
+#    max: 600
+#    alerts: ["emailAlert", "slackAlert"]
+#  -
+#    metric: firstPaint
+#    max: 2000
+#    alerts: ["slackAlert"]
+---
