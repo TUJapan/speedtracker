@@ -3,7 +3,7 @@ name: "TUJ EN Top (US, 3g)"
 default: false
 interval: 12
 parameters:
-  connectivity: "3g"
+  connectivity: "3G"
   location: "Dulles:Chrome"
   runs: 3
   url: "https://www.tuj.ac.jp/index.html"
