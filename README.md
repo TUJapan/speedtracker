@@ -1,3 +1,15 @@
+# TUJ Speedtracker
+
+This is a fork of Sppedtracker -- see below.
+
+The default profile (EN Top, from US, cable) tracks data from February 9, 2018. All other profiles, they are tracked from May 16, 2018.
+
+The DNS switch from the old server to new server was performed on the night of April 25, 2018. The updated WHOIS was confirmed at 21:11:59.
+
+
+
+---
+
 <img src="https://speedtracker.org/assets/images/logo-full-square-inverted.png" width="300">
 
 # Front-end
